@@ -17,7 +17,8 @@ It is an iterative algorithm that starts with an arbitrary solution to a problem
 ### Astar:
 A* Search algorithm is one of the best and popular technique used in path-finding and graph traversals.
 ## How to use this project:
-This project was implemented with C++ programming language and CodeBlocks IDE so you can clone this repo and use it with any IDE that supports C++
+This project was implemented with C++ programming language and CodeBlocks IDE so you can clone this repo and use it with any IDE that supports C++<br>
+note:text files are used as initil state of them game
 ## Contribution and  Contact info:
  I'm happy if anyone wants to contribute to this repo (a GUI would be Great for  visualization ;))<br>
  here is my Linkedin Account for any questions: www.linkedin.com/in/brzane-barmaga
