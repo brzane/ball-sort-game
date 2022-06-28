@@ -1,8 +1,8 @@
 # Ball-sort-game
 ## Overview
 this is project was built as fun learning path to the most famous sorting algorithms, ball sort is a game where you have number of tubes and number of colored ballsso the goal is to let these algorithm sort the colored balls in the tubes until all balls with the same color stay in the same tube<br>
-you can play the normal game from this link:https://play.google.com/store/apps/details?id=com.GMA.Ball.Sort.Puzzle&hl=en_US&gl=US
-![gameplay](https://user-images.githubusercontent.com/59266093/176244597-2057b445-494f-40ff-bb7d-3380658876ec.png)<br>
+you can play the normal game from this link:https://play.google.com/store/apps/details?id=com.GMA.Ball.Sort.Puzzle&hl=en_US&gl=US <br>
+![gameplay](https://user-images.githubusercontent.com/59266093/176244597-2057b445-494f-40ff-bb7d-3380658876ec.png)
 ## What this Project contains:
 1- CLI representation of the gamePlay.<br>
 2- You can choose between several Sorting algorithm and compare between them in time and complexty needed to solve the game instance .<br>
